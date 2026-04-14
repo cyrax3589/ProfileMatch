@@ -401,12 +401,12 @@ in the Software without restriction...
       />
     </td>
 
-    <td align="left">
+  <td align="left">
       <strong>Cyrax</strong><br>
       Automation Engineer<br><br>
 
-      <a href="https://linkedin.com/in/debabrata_kuiry/">LinkedIn</a><br>
-      <a href="mailto:debabratakuiry2002@gmail.com">Email</a>
+  <a href="https://linkedin.com/in/debabrata_kuiry/">LinkedIn</a><br>
+  <a href="mailto:debabratakuiry2002@gmail.com">Email</a>
     </td>
   </tr>
 </table>
