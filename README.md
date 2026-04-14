@@ -48,6 +48,76 @@ Python
 
 ---
 
+
+## Dataset
+
+The datasets used in this project were independently designed and generated to simulate realistic user profiles and interaction behavior.  
+They were created specifically to support the development and testing of a profile matching and recommendation system.
+
+All data structures, fields, and records were defined to represent practical real-world scenarios while maintaining consistency, readability, and logical relationships between users and interactions.
+
+The datasets are publicly available and can be accessed through the links below.
+
+---
+
+### users.csv
+
+This dataset contains structured profile information for each user in the system.
+
+**Key Fields**
+
+- user_id  
+- name  
+- age  
+- location  
+- profession  
+- experience_years  
+- professional_summary  
+- about_me  
+- mbti  
+- interests  
+
+**Description**
+
+Each row represents a unique user profile with demographic details, professional background, personality type, and descriptive text used for similarity analysis.
+
+**Dataset Link**
+Kaggle Link: [Add users.csv Kaggle link here]
+
+---
+
+### feedback.csv
+
+This dataset contains interaction records used to simulate user behavior and improve recommendation accuracy.
+
+**Key Fields**
+
+- user_id  
+- matched_user_id  
+- action  
+- timestamp  
+
+**Description**
+
+Each record represents a user interaction indicating whether a recommended profile was accepted or rejected.  
+These interactions are used to train and evaluate the adaptive scoring component of the system.
+
+**Dataset Link**
+Kaggle Link: [Add users.csv Kaggle link here]
+
+
+---
+
+### Dataset Ownership
+
+The datasets included in this repository are original creations developed by Cyrax3589.  
+They were generated using structured templates and controlled data generation methods to ensure quality, consistency, and realistic behavior patterns.
+
+No external proprietary datasets were used.
+
+
+---
+
 ## Use Cases
 
 - Professional networking platforms
