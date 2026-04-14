@@ -24,7 +24,7 @@
 
 ## Table of Contents
 
-1. [Overview]("#overview")
+1. [Overview](#overview)
 2. [Features](#features)
 3. [System Architecture](#️system-architecture)
 4. [Technology Stack](#️technology-stack)
