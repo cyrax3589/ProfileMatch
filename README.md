@@ -26,7 +26,7 @@
 
 1. [Overview](#overview)
 2. [Features](#features)
-3. [System Architecture](#️system-architecture)
+3. [System Architecture](#system-architecture)
 4. [Technology Stack](#️technology-stack)
 5. [Machine Learning Pipeline](#machine-learning-pipeline)
 6. [Dataset](#dataset)
