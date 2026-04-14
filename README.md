@@ -316,7 +316,7 @@ print(matches[['name', 'profession', 'hybrid_score']])
 ---
 
 ## Project Structure
-### The Directory Structure must be like below
+
 ```
 ProfileMatch/
 │
