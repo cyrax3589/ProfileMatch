@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/842de2f2-aac4-480c-9d3b-268eb9d84139" width="100%">
+</p>
+
 <h1 align="center">🔗 ProfileMatch</h1>
 <h3 align="center">Intelligent Profile Matching & Recommendation System</h3>
 
@@ -135,39 +139,39 @@ Raw Text Fields
          │
          ▼
 ┌─────────────────────┐
-│  Text Preprocessing  │
-│  • Lowercasing       │
-│  • Punctuation strip │
-│  • Stopword removal  │
-│  • Lemmatization     │
+│  Text Preprocessing │
+│  • Lowercasing      │
+│  • Punctuation strip│
+│  • Stopword removal │
+│  • Lemmatization    │
 └────────┬────────────┘
          │
          ▼
 ┌─────────────────────┐
-│  TF-IDF Vectorizer   │
-│  • max_features=5000 │
-│  • ngram_range=(1,2) │
+│  TF-IDF Vectorizer  │
+│  • max_features=5000│
+│  • ngram_range=(1,2)│
 └────────┬────────────┘
          │
          ▼
 ┌─────────────────────────────────────┐
-│       Similarity Matrix              │
-│  cosine_similarity(tfidf_matrix)     │
+│       Similarity Matrix             │
+│  cosine_similarity(tfidf_matrix)    │
 └────────┬────────────────────────────┘
          │
          ├──────────────────────────────────┐
          ▼                                  ▼
 ┌──────────────────┐            ┌───────────────────────┐
-│  Content Score   │            │   Feedback Model       │
-│  (NLP Cosine)    │            │   Logistic Regression  │
-│  Weight: 0.70    │            │   Weight: 0.30         │
+│  Content Score   │            │   Feedback Model      │
+│  (NLP Cosine)    │            │   Logistic Regression │
+│  Weight: 0.70    │            │   Weight: 0.30        │
 └────────┬─────────┘            └──────────┬────────────┘
-         │                                  │
-         └──────────────┬───────────────────┘
+         │                                 │
+         └──────────────┬──────────────────┘
                         ▼
              ┌─────────────────────┐
-             │   Hybrid Score       │
-             │   Final Ranked List  │
+             │   Hybrid Score      │
+             │   Final Ranked List │
              └─────────────────────┘
 ```
 
@@ -257,7 +261,7 @@ Place users.csv and feedback.csv inside the data/ directory.
 
 **6. Launch the application**
 ```bash
-streamlit run app.py
+streamlit run app/app.py
 ```
 
 ---
@@ -272,47 +276,6 @@ streamlit run app.py
 
 Navigate to `http://localhost:8501` in your browser.
 
-### Running the ML Pipeline Directly
-
-```bash
-# Preprocess data
-python src/preprocess.py
-
-# Train the model
-python src/train.py
-
-# Generate matches for a specific user
-python src/match.py --user_id 42 --top_n 10
-```
-
-### Example Python API
-
-```python
-from src.matcher import ProfileMatcher
-
-matcher = ProfileMatcher(
-    users_path="data/users.csv",
-    feedback_path="data/feedback.csv"
-)
-
-matcher.fit()
-
-# Get top 5 matches for user 42
-matches = matcher.get_matches(user_id=42, top_n=5)
-print(matches[['name', 'profession', 'hybrid_score']])
-```
-
-**Sample Output:**
-
-```
-        name           profession  hybrid_score
-0   Alex Kim        Data Engineer        0.912
-1   Priya Nair    ML Researcher         0.887
-2   Jordan Lee    Product Manager       0.854
-3   Sam Patel     Backend Developer     0.831
-4   Maya Chen     UX Designer           0.809
-```
-
 ---
 
 ## Project Structure
@@ -326,9 +289,9 @@ ProfileMatch/
 │
 ├──  src/
 │   ├── preprocessing.py              # Data cleaning & NLP preprocessing
-│   ├── learning.py                   # TF-IDF vectorization logic
-│   ├── similarity.py                 # Cosine similarity computation
-│   └── scoring.py                    # Model training entry point
+│   ├── learning.py                   # Generates feature vectors using TF-IDF vectorization
+│   ├── similarity.py                 # Computes similarity scores between user profiles using cosine similarity
+│   └── scoring.py                    # Calculates compatibility scores and updates the recommendation model
 │
 ├── app/                        
 │   ├── app.py                        # Streamlit web application 
@@ -440,5 +403,5 @@ in the Software without restriction...
 </p>
 
 <p align="center">
-  Made with ❤️ and Python · <a href="#-profilematch">Back to Top ↑</a>
+  Intelligent matching powered by machine learning · <a href="#-profilematch">Back to Top ↑</a>
 </p>
