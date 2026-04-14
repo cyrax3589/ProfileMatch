@@ -405,7 +405,7 @@ in the Software without restriction...
       <strong>Cyrax</strong><br>
       Automation Engineer<br><br>
 
-  <a href="https://linkedin.com/in/debabrata_kuiry/">LinkedIn</a><br>
+  <a href="https://linkedin.com/in/debabrata_kuiry/">LinkedIn</a>
   <a href="mailto:debabratakuiry2002@gmail.com">Email</a>
     </td>
   </tr>
