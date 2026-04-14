@@ -24,21 +24,21 @@
 
 ## Table of Contents
 
-1. [Overview]("#-Overview")
-2. [Features](#-Features)
-3. [System Architecture](#️-system-architecture)
-4. [Technology Stack](#️-technology-stack)
-5. [Machine Learning Pipeline](#-machine-learning-pipeline)
-6. [Dataset](#-dataset)
+1. [Overview]("#overview")
+2. [Features](#features)
+3. [System Architecture](#️system-architecture)
+4. [Technology Stack](#️technology-stack)
+5. [Machine Learning Pipeline](#machine-learning-pipeline)
+6. [Dataset](#dataset)
 7. [Installation](#installation)
-8. [Usage](#-usage)
-9. [Project Structure](#️-project-structure)
-10. [Performance Metrics](#-performance-metrics)
-11. [Use Cases](#-use-cases)
-12. [Future Enhancements](#-future-enhancements)
-13. [Contributing](#-contributing)
-14. [License](#-license)
-15. [Author](#-author)
+8. [Usage](#usage)
+9. [Project Structure](#️project-structure)
+10. [Performance Metrics](#performance-metrics)
+11. [Use Cases](#use-cases)
+12. [Future Enhancements](#future-enhancements)
+13. [Contributing](#contributing)
+14. [License](#license)
+15. [Author](#author)
 
 ---
 
