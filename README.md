@@ -51,7 +51,6 @@
 </a>
 
 </p>
----
 
 <details>
 <summary><strong>Table of Contents</strong></summary>
