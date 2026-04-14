@@ -25,22 +25,22 @@
 
 ## Table of Contents
 
-1. [Overview]("#overview")
-2. [Features](#features)
-3. [System Architecture](#️system-architecture)
-4. [Technology Stack](#️technology-stack)
-5. [Machine Learning Pipeline](#machine-learning-pipeline)
-6. [Dataset](#dataset)
-7. [Installation]("#️installation")
-8. [Usage](#usage)
-9. [Project Structure](#️project-structure)
-10. [Screenshots](#️screenshots)
-11. [Performance Metrics](#performance-metrics)
-12. [Use Cases](#use-cases)
-13. [Future Enhancements](#future-enhancements)
-14. [Contributing](#contributing)
-15. [License](#license)
-16. [Author](#author)
+1. [Overview]("#-overview")
+2. [Features](#-features)
+3. [System Architecture](#️-system-architecture)
+4. [Technology Stack](#️-technology-stack)
+5. [Machine Learning Pipeline](#-machine-learning-pipeline)
+6. [Dataset](#-dataset)
+7. [Installation]("#️-installation")
+8. [Usage](#-usage)
+9. [Project Structure](#️-project-structure)
+10. [Screenshots](#️-screenshots)
+11. [Performance Metrics](#-performance-metrics)
+12. [Use Cases](#-use-cases)
+13. [Future Enhancements](#-future-enhancements)
+14. [Contributing](#-contributing)
+15. [License](#-license)
+16. [Author](#-author)
 
 ---
 
