@@ -31,7 +31,7 @@
 4. [Technology Stack](#️-technology-stack)
 5. [Machine Learning Pipeline](#-machine-learning-pipeline)
 6. [Dataset](#-dataset)
-7. [Installation](#️Installation)
+7. [Installation](#️-Installation)
 8. [Usage](#-usage)
 9. [Project Structure](#️-project-structure)
 10. [Screenshots](#️-screenshots)
