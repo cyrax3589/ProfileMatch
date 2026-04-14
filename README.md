@@ -470,8 +470,7 @@ in the Software without restriction...
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/50688c5b-e7cb-48a7-b7dc-725351480a58" width="100px;" alt="Author"/>
-      <b>Cyrax</b><br/>
+      <img src="https://github.com/user-attachments/assets/50688c5b-e7cb-48a7-b7dc-725351480a58" width="100px;" alt="Author"/><br/>
       <a href="https://linkedin.com/in/debabrata_kuiry/">LinkedIn</a> •
       <a href="mailto:debabratakuiry2002@gmail.com">Email</a>
     </td>
