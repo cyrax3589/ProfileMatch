@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/842de2f2-aac4-480c-9d3b-268eb9d84139" width="100%">
+  <img src="https://github.com/user-attachments/assets/842de2f2-aac4-480c-9d3b-268eb9d84139" width="75%">
 </p>
 
 <h1 align="center">🔗 ProfileMatch</h1>
