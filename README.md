@@ -11,36 +11,36 @@
 </p>
 
 <p align="center">
-  <a href="#-overview">Overview</a> •
-  <a href="#-features">Features</a> •
-  <a href="#-system-architecture">Architecture</a> •
-  <a href="#-technology-stack">Stack</a> •
-  <a href="#-installation">Installation</a> •
-  <a href="#-usage">Usage</a> •
-  <a href="#-performance-metrics">Metrics</a> •
-  <a href="#-contributing">Contributing</a>
+  <a href="#overview">Overview</a> •
+  <a href="#features">Features</a> •
+  <a href="#system-architecture">Architecture</a> •
+  <a href="#technology-stack">Stack</a> •
+  <a href="#installation">Installation</a> •
+  <a href="#usage">Usage</a> •
+  <a href="#performance-metrics">Metrics</a> •
+  <a href="#contributing">Contributing</a>
 </p>
 
 ---
 
-## 📑 Table of Contents
+## Table of Contents
 
-1. [ Overview](#-overview)
-2. [ Features](#-features)
-3. [ System Architecture](#️-system-architecture)
-4. [ Technology Stack](#️-technology-stack)
-5. [ Machine Learning Pipeline](#-machine-learning-pipeline)
-6. [ Dataset](#-dataset)
-7. [ Installation](#️-installation)
-8. [ Usage](#-usage)
-9. [ Project Structure](#️-project-structure)
-10. [ Screenshots](#️-screenshots)
-11. [ Performance Metrics](#-performance-metrics)
-12. [ Use Cases](#-use-cases)
-13. [ Future Enhancements](#-future-enhancements)
-14. [ Contributing](#-contributing)
-15. [ License](#-license)
-16. [ Author](#-author)
+1. [ Overview](#overview)
+2. [ Features](#features)
+3. [ System Architecture](#️system-architecture)
+4. [ Technology Stack](#️technology-stack)
+5. [ Machine Learning Pipeline](#machine-learning-pipeline)
+6. [ Dataset](#dataset)
+7. [ Installation](#️installation)
+8. [ Usage](#usage)
+9. [ Project Structure](#️project-structure)
+10. [ Screenshots](#️screenshots)
+11. [ Performance Metrics](#performance-metrics)
+12. [ Use Cases](#use-cases)
+13. [ Future Enhancements](#future-enhancements)
+14. [ Contributing](#contributing)
+15. [ License](#license)
+16. [ Author](#author)
 
 ---
 
@@ -54,7 +54,7 @@ Whether you're building a professional networking platform, a talent-matching en
 
 ---
 
-##  Features
+## Features
 
 | Feature | Description | Status |
 |---|---|---|
@@ -78,21 +78,21 @@ Whether you're building a professional networking platform, a talent-matching en
 
   ┌──────────────┐        ┌──────────────────────────────────────┐
   │  Raw Data    │        │           DATA LAYER                 │
-  │  users.csv   │──────▶ │  Cleaning · Normalization · Merge    │
+  │  users.csv   │──────▶│  Cleaning · Normalization · Merge     │
   │  feedback.csv│        │  (pandas / numpy)                    │
   └──────────────┘        └────────────────┬─────────────────────┘
                                            │
                           ┌────────────────▼─────────────────────┐
                           │         NLP PROCESSING               │
-                          │  Tokenization · Stopword Removal      │
+                          │  Tokenization · Stopword Removal     │
                           │  TF-IDF Vectorization (scikit-learn) │
                           └────────────────┬─────────────────────┘
                                            │
                ┌───────────────────────────▼──────────────────────────┐
                │                   ML PIPELINE                        │
-               │                                                       │
+               │                                                      │
                │  ┌─────────────────┐     ┌────────────────────────┐  │
-               │  │ Cosine Similarity│     │  Logistic Regression   │  │
+               │  │Cosine Similarity│     │  Logistic Regression   │  │
                │  │ (Content Score) │     │  (Feedback Model)      │  │
                │  └────────┬────────┘     └───────────┬────────────┘  │
                │           │                          │               │
@@ -105,11 +105,11 @@ Whether you're building a professional networking platform, a talent-matching en
                └──────────────────────┼───────────────────────────────┘
                                       │
                           ┌───────────▼──────────────┐
-                          │     STREAMLIT UI          │
-                          │  Match Dashboard          │
-                          │  Profile Viewer           │
-                          │  Feedback Collector       │
-                          │  Analytics Charts         │
+                          │     STREAMLIT UI         │
+                          │  Match Dashboard         │
+                          │  Profile Viewer          │
+                          │  Feedback Collector      │
+                          │  Analytics Charts        │
                           └──────────────────────────┘
 ```
 
@@ -401,7 +401,7 @@ ProfileMatch/
 
 ---
 
-##  Use Cases
+## Use Cases
 
 -  **Professional Networking** — Match professionals based on skills, experience, and career goals
 -  **Academic Collaboration** — Connect researchers and students with aligned interests
@@ -412,7 +412,7 @@ ProfileMatch/
 
 ---
 
-##  Future Enhancements
+## Future Enhancements
 
 - [ ]  **Deep Learning Matching** — Replace TF-IDF with sentence-transformers (BERT/SBERT) for richer semantic understanding
 - [ ]  **Multilingual Support** — Extend NLP pipeline to handle profiles in multiple languages
@@ -425,7 +425,7 @@ ProfileMatch/
 
 ---
 
-##  Contributing
+## Contributing
 
 Contributions are warmly welcomed! Here's how to get started:
 
@@ -449,7 +449,7 @@ git push origin feature/your-feature-name
 
 ---
 
-##  License
+## License
 
 This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
 
@@ -465,7 +465,7 @@ in the Software without restriction...
 
 ---
 
-##  Author
+## Author
 
 <table>
   <tr>
