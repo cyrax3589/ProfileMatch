@@ -470,7 +470,7 @@ in the Software without restriction...
 <table>
   <tr>
     <td align="center">
-      <img src="<img width="565" height="346" alt="cx5 bg rm" src="https://github.com/user-attachments/assets/50688c5b-e7cb-48a7-b7dc-725351480a58" />" width="100px;" alt="Author"/><br/>
+      <img src="https://github.com/user-attachments/assets/50688c5b-e7cb-48a7-b7dc-725351480a58" />" width="100px;" alt="Author"/><br/>
       <b>Your Name</b><br/>
       <a href="https://github.com/cyrax3589">Cyrax3589</a><br/>
       <a href="https://linkedin.com/in/debabrata_kuiry/>Debabrata Kuiry</a> •
