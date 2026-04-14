@@ -18,7 +18,6 @@
   <a href="#installation">Installation</a> •
   <a href="#usage">Usage</a> •
   <a href="#performance-metrics">Metrics</a> •
-  <a href="#contributing">Contributing</a>
 </p>
 
 ---
@@ -26,7 +25,7 @@
 ## Table of Contents
 
 1. [Overview]("#Overview")
-2. [Features](#-features)
+2. [Features](# Features)
 3. [System Architecture](#️-system-architecture)
 4. [Technology Stack](#️-technology-stack)
 5. [Machine Learning Pipeline](#-machine-learning-pipeline)
@@ -34,13 +33,12 @@
 7. [Installation](#️-Installation)
 8. [Usage](#-usage)
 9. [Project Structure](#️-project-structure)
-10. [Screenshots](#️-screenshots)
-11. [Performance Metrics](#-performance-metrics)
-12. [Use Cases](#-use-cases)
-13. [Future Enhancements](#-future-enhancements)
-14. [Contributing](#-contributing)
-15. [License](#-license)
-16. [Author](#-author)
+10. [Performance Metrics](#-performance-metrics)
+11. [Use Cases](#-use-cases)
+12. [Future Enhancements](#-future-enhancements)
+13. [Contributing](#-contributing)
+14. [License](#-license)
+15. [Author](#-author)
 
 ---
 
@@ -353,35 +351,6 @@ ProfileMatch/
 ├── LICENSE
 └── README.md
 ```
-
----
-
-## Screenshots
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="assets/screenshots/dashboard_placeholder.png" width="400" alt="Dashboard" /><br/>
-      <b> Match Dashboard</b>
-    </td>
-    <td align="center">
-      <img src="assets/screenshots/profile_view_placeholder.png" width="400" alt="Profile View" /><br/>
-      <b> Profile Detail View</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="assets/screenshots/analytics_placeholder.png" width="400" alt="Analytics" /><br/>
-      <b> Similarity Analytics</b>
-    </td>
-    <td align="center">
-      <img src="assets/screenshots/feedback_placeholder.png" width="400" alt="Feedback" /><br/>
-      <b> Feedback & Learning</b>
-    </td>
-  </tr>
-</table>
-
->  *Replace placeholder images with actual screenshots from your running application.*
 
 ---
 
