@@ -1,10 +1,14 @@
 <p align="center">
   <img 
     src="https://github.com/user-attachments/assets/842de2f2-aac4-480c-9d3b-268eb9d84139"
-    width="75%"
-    style="border-radius: 18px;"
+    width="105%"
+    style="
+      border-radius: 18px;
+      box-shadow: 0 8px 24px rgba(0,0,0,0.15);
+    "
   >
 </p>
+
 <h1 align="center">🔗 ProfileMatch</h1>
 <h3 align="center">Intelligent Profile Matching & Recommendation System</h3>
 
