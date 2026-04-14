@@ -282,7 +282,7 @@ streamlit run app/app.py
 ### Running the Streamlit App
 
 ```bash
-streamlit run app.py
+streamlit run app/app.py
 ```
 
 Navigate to `http://localhost:8501` in your browser.
