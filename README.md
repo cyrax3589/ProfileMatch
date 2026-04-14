@@ -392,10 +392,21 @@ in the Software without restriction...
 
 <table>
   <tr>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/50688c5b-e7cb-48a7-b7dc-725351480a58" width="100px;" alt="Author"/><br/>
-      <a href="https://linkedin.com/in/debabrata_kuiry/">LinkedIn</a> •
-      <a href="mailto:debabratakuiry2002@gmail.com">Email</a>
+    <td width="120px">
+      <img 
+        src="https://github.com/user-attachments/assets/50688c5b-e7cb-48a7-b7dc-725351480a58" 
+        width="100" 
+        style="border-radius: 50%;" 
+        alt="Author"
+      />
+    </td>
+
+    <td align="left">
+      <strong>Cyrax</strong><br>
+      Automation Engineer<br><br>
+
+      🔗 <a href="https://linkedin.com/in/debabrata_kuiry/">LinkedIn</a><br>
+      📧 <a href="mailto:debabratakuiry2002@gmail.com">Email</a>
     </td>
   </tr>
 </table>
