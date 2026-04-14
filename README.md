@@ -32,23 +32,28 @@
 
 ---
 
-## Table of Contents
+<details>
+<summary><strong>Table of Contents</strong></summary>
 
-1. [Overview](#overview)
-2. [Features](#features)
-3. [System Architecture](#system-architecture)
-4. [Technology Stack](#technology-stack)
-5. [Machine Learning Pipeline](#machine-learning-pipeline)
-6. [Dataset](#dataset)
-7. [Installation](#installation)
-8. [Usage](#usage)
-9. [Project Structure](#project-structure)
-10. [Performance Metrics](#performance-metrics)
-11. [Use Cases](#use-cases)
-12. [Future Enhancements](#future-enhancements)
-13. [Contributing](#contributing)
-14. [License](#license)
+<br>
+
+1. [Overview](#overview)  
+2. [Features](#features)  
+3. [System Architecture](#system-architecture)  
+4. [Technology Stack](#technology-stack)  
+5. [Machine Learning Pipeline](#machine-learning-pipeline)  
+6. [Dataset](#dataset)  
+7. [Installation](#installation)  
+8. [Usage](#usage)  
+9. [Project Structure](#project-structure)  
+10. [Performance Metrics](#performance-metrics)  
+11. [Use Cases](#use-cases)  
+12. [Future Enhancements](#future-enhancements)  
+13. [Contributing](#contributing)  
+14. [License](#license)  
 15. [Author](#author)
+
+</details>
 
 ---
 
@@ -405,7 +410,7 @@ in the Software without restriction...
       <strong>Cyrax</strong><br>
       Automation Engineer<br><br>
 
-  <a href="https://linkedin.com/in/debabrata_kuiry/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/debabrata-kuiry/">LinkedIn</a>
   <a href="mailto:debabratakuiry2002@gmail.com">Email</a>
     </td>
   </tr>
