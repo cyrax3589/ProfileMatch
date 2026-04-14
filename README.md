@@ -21,15 +21,36 @@
 </p>
 
 <p align="center">
-  <a href="#overview">Overview</a> •
-  <a href="#features">Features</a> •
-  <a href="#system-architecture">Architecture</a> •
-  <a href="#technology-stack">Stack</a> •
-  <a href="#installation">Installation</a> •
-  <a href="#usage">Usage</a> •
-  <a href="#performance-metrics">Metrics</a> •
-</p>
 
+<a href="#overview">
+  <img src="https://img.shields.io/badge/Overview-4CAF50?style=for-the-badge">
+</a>
+
+<a href="#features">
+  <img src="https://img.shields.io/badge/Features-2196F3?style=for-the-badge">
+</a>
+
+<a href="#system-architecture">
+  <img src="https://img.shields.io/badge/Architecture-9C27B0?style=for-the-badge">
+</a>
+
+<a href="#technology-stack">
+  <img src="https://img.shields.io/badge/Tech%20Stack-FF9800?style=for-the-badge">
+</a>
+
+<a href="#installation">
+  <img src="https://img.shields.io/badge/Installation-795548?style=for-the-badge">
+</a>
+
+<a href="#usage">
+  <img src="https://img.shields.io/badge/Usage-009688?style=for-the-badge">
+</a>
+
+<a href="#performance-metrics">
+  <img src="https://img.shields.io/badge/Metrics-F44336?style=for-the-badge">
+</a>
+
+</p>
 ---
 
 <details>
