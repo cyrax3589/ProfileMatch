@@ -472,8 +472,7 @@ in the Software without restriction...
     <td align="center">
       <img src="https://github.com/user-attachments/assets/50688c5b-e7cb-48a7-b7dc-725351480a58" width="100px;" alt="Author"/>
       <b>Cyrax</b><br/>
-      <a href="https://github.com/cyrax3589">Cyrax3589</a><br/>
-      <a href="https://linkedin.com/in/debabrata_kuiry/>Debabrata Kuiry</a> •
+      <a href="https://linkedin.com/in/debabrata_kuiry/">LinkedIn</a> •
       <a href="mailto:debabratakuiry2002@gmail.com">Email</a>
     </td>
   </tr>
