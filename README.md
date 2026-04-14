@@ -450,8 +450,8 @@ in the Software without restriction...
 
 <p align="center">
   <sub> If you found this project helpful, please consider giving it a star — it helps others discover it!</sub><br/><br/>
-  <img src="https://img.shields.io/github/stars/YOUR_USERNAME/ProfileMatch?style=social" />
-  <img src="https://img.shields.io/github/forks/YOUR_USERNAME/ProfileMatch?style=social" />
+  <img src="https://img.shields.io/github/stars/cyrax3589/ProfileMatch?style=social" />
+  <img src="https://img.shields.io/github/forks/cyrax3589/ProfileMatch?style=social" />
 </p>
 
 <p align="center">
