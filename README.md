@@ -56,7 +56,10 @@ They were created specifically to support the development and testing of a profi
 
 All data structures, fields, and records were defined to represent practical real-world scenarios while maintaining consistency, readability, and logical relationships between users and interactions.
 
-The datasets are publicly available and can be accessed through the links below.
+The datasets are publicly available and can be accessed through the link below.
+
+**Kaggle Link:**
+(https://www.kaggle.com/datasets/debabratakuiry/profile-matching-and-recommendation-dataset)
 
 ---
 
@@ -81,9 +84,6 @@ This dataset contains structured profile information for each user in the system
 
 Each row represents a unique user profile with demographic details, professional background, personality type, and descriptive text used for similarity analysis.
 
-**Kaggle Link:**
-[Add users.csv Kaggle link here]
-
 ---
 
 ### feedback.csv
@@ -101,10 +101,6 @@ This dataset contains interaction records used to simulate user behavior and imp
 
 Each record represents a user interaction indicating whether a recommended profile was accepted or rejected.  
 These interactions are used to train and evaluate the adaptive scoring component of the system.
-
-**Kaggle Link:**
-[Add users.csv Kaggle link here]
-
 
 ---
 
