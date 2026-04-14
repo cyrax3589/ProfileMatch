@@ -59,7 +59,7 @@ All data structures, fields, and records were defined to represent practical rea
 The datasets are publicly available and can be accessed through the link below.
 
 **Kaggle Link:**
-(https://www.kaggle.com/datasets/debabratakuiry/profile-matching-and-recommendation-dataset)
+https://www.kaggle.com/datasets/debabratakuiry/profile-matching-and-recommendation-dataset
 
 ---
 
