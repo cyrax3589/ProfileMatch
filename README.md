@@ -321,33 +321,18 @@ print(matches[['name', 'profession', 'hybrid_score']])
 ProfileMatch/
 │
 ├──  data/
-│   ├── users.csv                  # User profile dataset
-│   └── feedback.csv               # User interaction feedback
+│   ├── users.csv                     # User profile dataset
+│   └── feedback.csv                  # User interaction feedback
 │
 ├──  src/
-│   ├── preprocess.py              # Data cleaning & NLP preprocessing
-│   ├── vectorizer.py              # TF-IDF vectorization logic
-│   ├── similarity.py              # Cosine similarity computation
-│   ├── feedback_model.py          # Logistic regression feedback model
-│   ├── matcher.py                 # Hybrid scoring & ranking engine
-│   └── train.py                   # Model training entry point
+│   ├── preprocessing.py              # Data cleaning & NLP preprocessing
+│   ├── learning.py                   # TF-IDF vectorization logic
+│   ├── similarity.py                 # Cosine similarity computation
+│   └── scoring.py                    # Model training entry point
 │
-├──  notebooks/
-│   ├── 01_EDA.ipynb               # Exploratory Data Analysis
-│   ├── 02_NLP_Pipeline.ipynb      # NLP experiments
-│   └── 03_Model_Evaluation.ipynb  # Metric benchmarking
-│
-├──  models/
-│   ├── tfidf_vectorizer.pkl       # Saved TF-IDF vectorizer
-│   └── feedback_model.pkl         # Saved logistic regression model
-│
-├──  assets/
-│   └── screenshots/               # UI screenshots
-│
-├── app.py                         # Streamlit web application
-├── requirements.txt               # Python dependencies
-├── config.yaml                    # Configuration parameters
-├── .gitignore
+├── app/                        
+│   ├── app.py                        # Streamlit web application 
+├── requirements.txt                  # Python dependencies
 ├── LICENSE
 └── README.md
 ```
