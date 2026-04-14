@@ -1,7 +1,7 @@
 <p align="center">
   <img 
     src="https://github.com/user-attachments/assets/fc97df17-a198-421a-9905-f9c5f5abb1bb"
-    width="45%"
+    width="75%"
     style="
       border-radius: 18px;
       box-shadow: 0 8px 24px rgba(0,0,0,0.15);
@@ -9,8 +9,7 @@
   >
 </p>
 
-<h1 align="center">🔗 ProfileMatch</h1>
-<h3 align="center">Intelligent Profile Matching & Recommendation System</h3>
+<h2 align="center">Intelligent Profile Matching & Recommendation System</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white" />
