@@ -81,8 +81,8 @@ This dataset contains structured profile information for each user in the system
 
 Each row represents a unique user profile with demographic details, professional background, personality type, and descriptive text used for similarity analysis.
 
-**Dataset Link**
-Kaggle Link: [Add users.csv Kaggle link here]
+**Kaggle Link:**
+[Add users.csv Kaggle link here]
 
 ---
 
@@ -102,8 +102,8 @@ This dataset contains interaction records used to simulate user behavior and imp
 Each record represents a user interaction indicating whether a recommended profile was accepted or rejected.  
 These interactions are used to train and evaluate the adaptive scoring component of the system.
 
-**Dataset Link**
-Kaggle Link: [Add users.csv Kaggle link here]
+**Kaggle Link:**
+[Add users.csv Kaggle link here]
 
 
 ---
