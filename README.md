@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/3fbc5da9-7dd0-43b1-814c-3da5c5988f65" width="50%" alt="ProfileMatch Banner" />
+<img src="https://github.com/user-attachments/assets/3fbc5da9-7dd0-43b1-814c-3da5c5988f65" align="center" width="50%" alt="ProfileMatch Banner" />
 
 <h1 align="center">🔗 ProfileMatch</h1>
 <h3 align="center">Intelligent Profile Matching & Recommendation System</h3>
