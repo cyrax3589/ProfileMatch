@@ -412,8 +412,8 @@ MIT License
 Copyright (c) 2024 ProfileMatch Contributors
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction...
+of this project and associated documentation files, to deal
+in the project without restriction...
 ```
 
 ---
